@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "TodoList",
+		"path": "../.."
+	},
+	{
+		"name": "design",
+		"path": "../../../Downloads/todo-app-main/todo-app-main/design"
+	},
+	{
+		"name": "images",
+		"path": "../../../Downloads/todo-app-main/todo-app-main/images"
+	}
+],
+  "settings": {}
+}

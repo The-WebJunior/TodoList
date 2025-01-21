@@ -1,0 +1,27 @@
+/* Pour le mode clair */
+body {
+  background-color: white;
+  color: black;
+}
+
+/* Pour le mode sombre */
+body.dark {
+  background-color: hsl(235, 21%, 11%);
+  color: white;
+}
+
+/* Exemple pour les éléments */
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.7;
+}
+
+/* Appliquez un fond différent pour les éléments lorsque le mode sombre est activé */
+.bg-gray-900 {
+  background-color: #1a202c; /* Couleur pour le mode sombre */
+}
