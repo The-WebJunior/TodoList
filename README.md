@@ -115,7 +115,7 @@ Structure
 ## Ressources
 
  
-- Hébergement : [GitHub Pages](https://pages.github.com/), [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/)
+- Hébergement : [GitHub Pages](https://pages.github.com/), [Vercel](https://todo-flame-six.vercel.app/ ), [Netlify](https://www.netlify.com/)
 - Communauté : [Frontend Mentor Community](https://www.frontendmentor.io/community)
 
 ---
